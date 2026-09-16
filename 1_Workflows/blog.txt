@@ -1,0 +1,16 @@
+# AI Agents
+
+## 1. What Are AI Agents?
+AI agents are software systems that perceive information, make decisions, and take action to reach a goal. Unlike basic programs, they respond to changing situations and may learn from feedback.
+
+## 2. How AI Agents Work
+They collect data from users, sensors, or digital tools. They analyze it with rules, machine learning, or language models, then choose an action—such as answering questions, booking meetings, or sending reports. They can review results and adjust their next step.
+
+## 3. Types of AI Agents
+Reactive agents respond to immediate inputs. Goal-based agents plan toward outcomes. Learning agents improve over time.
+
+## 4. Applications Across Industries
+In healthcare, they help with scheduling and patient support. In finance, they detect fraud and assist customers. Companies use them for research, marketing, and automation.
+
+## 5. Benefits and Challenges
+They save time, reduce repetitive work, and offer 24/7 service. Challenges include errors, privacy risks, and unexpected actions. Human oversight, clear rules, and strong security remain essential.

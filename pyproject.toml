@@ -1,0 +1,26 @@
+[project]
+name = "langgraphcourse"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Sohail Arif", email = "sohailsolutions333@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=1.4.0",
+    "langchain-openai>=1.6.2",
+    "langgraph>=1.2.11",
+    "langgraph-checkpoint-sqlite>=3.1.1",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "python-dotenv>=1.2.3",
+    "streamlit>=1.63.0",
+]
+
+[project.scripts]
+langgraphcourse = "langgraphcourse:main"
+
+[build-system]
+requires = ["uv_build>=0.12.7,<0.13.0"]
+build-backend = "uv_build"
